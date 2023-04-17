@@ -1,2 +1,5 @@
 # MSTICPy_utils
-my MSTICpy practice and custom tools repository
+
+Mainly my MSTICpy practice repository.
+Jupyter notebook files with useful msticpy execution history.
+
