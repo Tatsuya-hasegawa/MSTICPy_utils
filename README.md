@@ -10,7 +10,7 @@
 | [splunk_dsdl](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/splunk_dsdl)  | msticpy joint to Splunk DSDL example for powershell base64 hunting refered by my DFIR Summit PDF  |
 | [qp_splunk_poc_bugfix](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/qp_splunk_poc_bugfix) | PoC notebooks and test csv of my [PR#657](https://github.com/microsoft/msticpy/pull/657) to msticpy  |
 | [analysis_outliers](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/analysis_outliers) | PoC notebooks of my [PR#805](https://github.com/microsoft/msticpy/pull/805) to msticpy  |
-| [analysis_rrcf_outliers](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/analysis_rrcf_outliers) | PoC notebooks of my [PR#846](https://github.com/microsoft/msticpy/pull/846) to msticpy  |
+| [analysis_rrcf_outliers](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/analysis_rrcf_outliers) | PoC notebooks of my [PR#846](https://github.com/microsoft/msticpy/pull/846) to msticpy, comparing IsolationForest and RobustRandomCutForest with same dataset |
 | [data](https://github.com/Tatsuya-hasegawa/MSTICPy_utils/blob/main/data)  | sample data directory to be utilized by this repository's some notebook files |
 
 ### Presentation on SANS APAC DFIR Summit 2023 
